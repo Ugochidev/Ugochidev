@@ -3,6 +3,7 @@
 
 
 [![Alt text](LI-Logo.png)](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
+<img src="LI-Logo.png" width="20">
 
 Hi guys! Let's code solutions... 
 
