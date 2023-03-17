@@ -2,7 +2,7 @@
 #Hi 👋, I'm Ugochukwu chioma
 
 
-[![Alt text](LI-Logo13.png)](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
+[![Alt text](LI-Logo14.png)](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
 
 
 Hi guys! Let's code solutions... 
