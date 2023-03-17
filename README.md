@@ -1,5 +1,5 @@
 
-#<font size="100">Hi 👋, I'm Ugochukwu chioma</font>
+<font size="100">Hi 👋, I'm Ugochukwu chioma</font>
 <p style="font-size:80px;">#Hi 👋, I'm Ugochukwu chioma</p>
 
 
