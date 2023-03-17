@@ -1,10 +1,10 @@
 # ugochidev
 
 
-LinkedIn Badge Twitter Badge Instagram Badge
+[![Alt text](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
 
 Hi guys! Let's code solutions... 
-![Alt text](import.png)
+
 
 👨‍💻 About Me :
 I am a backend Developer 
@@ -25,4 +25,4 @@ GitHub Streak
 My GitHub Language Stats
 
 🧰 Languages and Tools:
-Javascript typescript VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code VS Code cpp cpp cpp cpp cpp cpp cpp cpp cpp cpp cpp cpp cpp VS Code
+Javascript typescript 
