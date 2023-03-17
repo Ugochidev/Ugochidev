@@ -4,6 +4,8 @@
 
 [![Alt text](LI-Logo.png)](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
 <img src="LI-Logo.png" width="20">
+<img src="LI-Logo.png" style="width:20px;">
+
 
 Hi guys! Let's code solutions... 
 
