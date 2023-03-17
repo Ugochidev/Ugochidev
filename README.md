@@ -1,6 +1,5 @@
 
-<font size="100">Hi 👋, I'm Ugochukwu chioma</font>
-<p style="font-size:80px;">#Hi 👋, I'm Ugochukwu chioma</p>
+#Hi 👋, I'm Ugochukwu chioma
 
 
 [![Alt text](https://www.linkedin.com/in/chioma-ugochukwu/) Twitter Badge Instagram Badge
