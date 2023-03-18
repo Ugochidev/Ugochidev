@@ -19,14 +19,10 @@ I am a backend Developer
 
 ⚡ In my free time, I solve problems on Hackerank, Read & Write Tech articles on Medium.
 
-📫How to reach me Linkedin Badge
+📫How to reach me: ugochukwuchioma16@gmail.com
 
+👯 I’m looking to collaborate on HealthTech, Fintech, EdTech and E-commerce products.
 👨🏻‍
-My GitHub Stats
-
-GitHub Streak
-
-My GitHub Language Stats
-
+💬 Ask me about NodeJs, Express, SQL & NoSQL Database .... and backend best practices.
 🧰 Languages and Tools:
-Javascript typescript 
+Javascript, typescript, nestjs, etc
