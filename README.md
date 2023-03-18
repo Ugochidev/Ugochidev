@@ -2,8 +2,7 @@
 #Hi 👋, I'm Ugochukwu chioma
 
 
-[![Alt text](LI-Logo14.png)](https://www.linkedin.com/in/chioma-ugochukwu/) [![Alt text](insta.png)](https://www.instagram.com/itzs_chiommy/?next=%2F)
-[![Alt text](twitter.png)](https://twitter.com/UgoChiomadev)
+[![Alt text](LI-Logo14.png)](https://www.linkedin.com/in/chioma-ugochukwu/) [![Alt text](instag.png)](https://www.instagram.com/itzs_chiommy/?next=%2F) [![Alt text](twitter2.png)](https://twitter.com/UgoChiomadev)
 
 
 Hi guys! Let's code solutions... 
